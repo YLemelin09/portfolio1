@@ -107,33 +107,33 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      name: "James Anderson",
+      title: "Lead Developer at IpsumWorks",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus.",
+      name: "Matthew Johnson",
+      title: "Creative Director at LoremCo",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Ut fringilla vel elit ac placerat. Proin vel nisi nec felis tincidunt tincidunt. Aenean vehicula nulla vitae ligula accumsan, ac vehicula turpis dapibus. Donec non magna nec ipsum vehicula pharetra id in urna.",
+      name: "Daniel Carter",
+      title: "Project Manager at DolorTech",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Phasellus vehicula ligula non nibh tincidunt, ac ultricies magna suscipit. Suspendisse potenti. Aliquam erat volutpat. Integer ut arcu nec urna fermentum congue ut vel lacus. Nullam sit amet malesuada libero.",
+      name: "Alexander White",
+      title: "Marketing Specialist at SitAmet Inc.",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Quisque convallis sapien id ultricies aliquet. Mauris ac nisi non erat suscipit dignissim a nec lorem. Morbi vel sapien non orci venenatis vehicula in et lectus. Nam at eros at urna vehicula porttitor.",
+      name: "William Harris",
+      title: "UI/UX Designer at Adipiscing Studios",
     },
   ];
   
